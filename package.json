@@ -26,6 +26,6 @@
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
     "firebase-admin": "^8.10.0",
-    "parse": "^2.15.0"
+    "parse": "^3.4.0"
   }
 }
